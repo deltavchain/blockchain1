@@ -1,4 +1,4 @@
-# hacker
+# hacker.blockchain version 1 totally incomplete. Research purposes only. Move along.
 **hacker** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
 
 ## Get started
